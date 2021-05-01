@@ -1,4 +1,5 @@
-# Assignment-6_part_abcde
+# Assignment-6 Deep Learning
+
 AutoGrad MNIST and CNN Image Classifier
 
 A. Autograd in Python and Numpy MNIST Classifier with UnitTest
